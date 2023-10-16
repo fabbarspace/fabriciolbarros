@@ -1,10 +1,11 @@
-## Olá, eu sou o Fabricio Barros!
-
+## Hi, I'm Fabricio Barros!
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriciolbarros&color=yellow" alt="Profile views" /> </p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabriciolbarros&" alt="fabriciolbarros" /></p>
   <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriciolbarros&show_icons=true&locale=en&layout=compact" alt="fabriciolbarros" /></p-->
   <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciolbarros&show_icons=true&locale=en" alt="fabriciolbarros" /></p-->
 
-  ##
+
+  ## Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabbar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fabbar-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -22,7 +23,7 @@
   <img align="center" alt="Fabbar-GCP" height="30" width="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">      
 </div>
   
-  ##
+  ## Contact
  
 <div> 
   <!--a href="https://www.youtube.com/@fabriciolbarros" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a-->
