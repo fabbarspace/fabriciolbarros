@@ -1,4 +1,4 @@
-## Olá eu sou o Fabricio Barros!
+## Olá, eu sou o Fabricio Barros!
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabriciolbarros&" alt="fabriciolbarros" /></p>
   <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriciolbarros&show_icons=true&locale=en&layout=compact" alt="fabriciolbarros" /></p-->
