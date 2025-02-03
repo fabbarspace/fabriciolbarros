@@ -1,26 +1,26 @@
 ## Hi, I'm Fabricio Barros!
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriciolbarros&color=yellow" alt="Profile views" /> </p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabriciolbarros&" alt="fabriciolbarros" /></p>
-  <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriciolbarros&show_icons=true&locale=en&layout=compact" alt="fabriciolbarros" /></p-->
-  <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciolbarros&show_icons=true&locale=en" alt="fabriciolbarros" /></p-->
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ofabbarros&" alt="ofabbarros" /></p>
+  <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ofabbarros&show_icons=true&locale=en&layout=compact" alt="ofabbarros" /></p-->
+  <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ofabbarros&show_icons=true&locale=en" alt="ofabbarros" /></p-->
 
 
   ## Technologies
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fabbar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fabbar-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Fabbar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fabbar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fabbar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Fabbar-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Fabbar-Springboot" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">  
-  <img align="center" alt="Fabbar-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">  
-  <img align="center" alt="Fabbar-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
-  <img align="center" alt="Fabbar-K8s" height="30" width="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">  
-  <img align="center" alt="Fabbar-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">    
-  <img align="center" alt="Fabbar-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">     
-  <img align="center" alt="Fabbar-Azure" height="30" width="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">      
-  <img align="center" alt="Fabbar-GCP" height="30" width="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">      
+  <img align="center" alt="fabbar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="fabbar-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="fabbar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="fabbar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="fabbar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="fabbar-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="fabbar-Springboot" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">  
+  <img align="center" alt="fabbar-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">  
+  <img align="center" alt="fabbar-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="fabbar-K8s" height="30" width="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">  
+  <img align="center" alt="fabbar-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">    
+  <img align="center" alt="fabbar-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">     
+  <img align="center" alt="fabbar-Azure" height="30" width="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">      
+  <img align="center" alt="fabbar-GCP" height="30" width="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">      
 </div>
   
   ## Contact
