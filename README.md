@@ -1,6 +1,6 @@
 ## Hi, I'm Fabricio Barros!
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriciolbarros&color=yellow" alt="Profile views" /> </p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ofabbarros&" alt="ofabbarros" /></p>
+  <!--p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ofabbarros&" alt="ofabbarros" /></p-->
   <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ofabbarros&show_icons=true&locale=en&layout=compact" alt="ofabbarros" /></p-->
   <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ofabbarros&show_icons=true&locale=en" alt="ofabbarros" /></p-->
 
